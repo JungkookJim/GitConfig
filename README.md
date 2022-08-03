@@ -1,0 +1,2 @@
+# GitConfig
+Used By SpringCloudConfigServer
